@@ -1,0 +1,4 @@
+Activity recognition with DSP features (train and test subjects are different people)
+
+dsp_svm             87.88%   CLIMBING STAIRS: 92.8%  SITTING: 72.9%  STANDING: 85.9%  WALKING: 96.0%
+dsp_random_forest   88.55%   CLIMBING STAIRS: 93.7%  SITTING: 78.8%  STANDING: 83.5%  WALKING: 94.4%

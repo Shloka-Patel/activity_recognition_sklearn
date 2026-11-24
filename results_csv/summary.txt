@@ -1,0 +1,11 @@
+Activity recognition, scikit-learn SVM
+
+Body acceleration only   : 82.61%
+Body + gravity features  : 89.05%
+
+Per-activity accuracy (%):
+activity           body only  + gravity
+CLIMBING STAIRS         94.5       94.5
+SITTING                 78.4       73.9
+STANDING                52.1       85.3
+WALKING                 98.2       98.2
